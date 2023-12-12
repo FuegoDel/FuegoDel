@@ -3,7 +3,7 @@
 ## Full Stack Developer | UI Design Enthusiast | Technology Explorer
 
 ### Languages and Technologies
-Here's a quick overview of the languages and technologies I've mastered or have experience At:
+Here's a quick overview of the languages and technologies I've mastered or have experience at:
 
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
