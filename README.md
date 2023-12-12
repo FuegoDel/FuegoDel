@@ -3,7 +3,6 @@
 ## Full Stack Developer | UI Design Enthusiast | Technology Explorer
 
 ### FiveM Development Expertise
-![GTA V](https://img.shields.io/badge/-GTA%20V-007396?style=flat&logo=rockstargames)
 I specialize in FiveM development, crafting immersive and dynamic experiences for the GTA V modding community. My skills include:
 
 - Extensive knowledge of FiveM server and client-side scripting.
@@ -24,6 +23,7 @@ Here's a quick overview of the languages and technologies I've mastered or have 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 #### Frameworks and Libraries
+![FiveM](https://img.shields.io/badge/-GTA%20V-007396?style=flat&logo=rockstargames)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
